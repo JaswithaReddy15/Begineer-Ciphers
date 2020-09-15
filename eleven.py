@@ -4,6 +4,8 @@
 Created on Wed Sep  9 21:09:22 2020
 
 @author: jaswithareddy
+
+Encrypt a plain text using Row(Columnar) Transposition. <br>
 """
 
 def encrypt(message, keyword):
