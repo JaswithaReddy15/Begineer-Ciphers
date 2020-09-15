@@ -5,6 +5,9 @@ Created on Sat Sep  5 11:11:38 2020
 
 @author: jaswithareddy
 """
+"""
+Prints ASCII value of the letters in a word along with character count.
+"""
 
 file_in=open("one.txt","r")
 print("Word: ",file_in.read())
