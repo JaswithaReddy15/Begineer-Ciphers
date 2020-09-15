@@ -4,6 +4,8 @@
 Created on Sun Sep  6 20:38:57 2020
 
 @author: jaswithareddy
+
+Decrypt a cipher text using PlayFair Cipher.
 """
     
 def locindex(c): 
