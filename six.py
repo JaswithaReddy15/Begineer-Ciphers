@@ -4,6 +4,8 @@
 Created on Sat Sep  5 17:41:13 2020
 
 @author: jaswithareddy
+
+Create a key matrix for Playfair Cipher.
 """
 
 alphabet="ABCDEFGHIKLMNOPQRSTUVWXYZ"
