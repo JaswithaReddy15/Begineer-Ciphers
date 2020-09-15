@@ -4,6 +4,8 @@
 Created on Sat Sep  5 11:58:32 2020
 
 @author: jaswithareddy
+
+Encrypt using Caesar Shift Cipher.
 """
 
 file_in=open("two.txt","r")
