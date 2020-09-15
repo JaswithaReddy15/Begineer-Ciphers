@@ -5,7 +5,7 @@ Created on Sat Sep  5 12:36:01 2020
 
 @author: jaswithareddy
 
-Encrypt a Caesar Shift Cipher.
+Decrypt a Caesar Shift Cipher without key.
 """
 
 file_in=open("three.txt",'r')
