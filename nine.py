@@ -4,6 +4,8 @@
 Created on Wed Sep  9 17:37:28 2020
 
 @author: jaswithareddy
+
+Encrypt and Decrypt text using Hill Cipher.
 """
 
 import sys
