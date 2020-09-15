@@ -4,6 +4,8 @@
 Created on Wed Sep  9 21:58:02 2020
 
 @author: jaswithareddy
+
+Decrypt a cipher text using Row(Columnar) Transposition.
 """
 
 def decrypt(message, keyword):
